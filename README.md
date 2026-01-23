@@ -34,6 +34,17 @@ Donors receive on-chain metadata updates that reflect the specific impact their 
 * Node.js v18+
 * Hiro Wallet or Xverse Wallet extension
 
+## 📈 Roadmap
+
+This project aims to evolve in phases:
+
+1. **MVP Launch** – Stable milestone-locked funding system.
+2. **Peer Review Network** – Community reviewers to validate project milestones.
+3. **Grant Marketplace** – Discover and fund verified impact projects.
+4. **Impact Analytics Dashboard** – Visual metrics for donor and project performance.
+5. **Cross-Chain Support** – Expand to Bitcoin layer-2 and other ecosystems.
+
+
 ## Installation and Setup
 
 1. **Clone the Repository**
